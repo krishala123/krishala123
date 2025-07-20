@@ -20,7 +20,9 @@ Welcome to my GitHub profile! I’m passionate about building beautiful and func
 A showcase of my web development and design skills.  
 🔗 [Visit my portfolio](https://krishala123.github.io/Portfolio).
 
-## 📊 GitHub Overview
+
+
+## 📊 GitHub Stats
 
 ![Krishala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishala123&show_icons=true&theme=dracula&hide_border=true)
 
