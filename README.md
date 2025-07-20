@@ -20,15 +20,20 @@ Welcome to my GitHub profile! I’m passionate about building beautiful and func
 A showcase of my web development and design skills.  
 🔗 [Visit my portfolio](https://krishala123.github.io/Portfolio).
 
-
+---
 
 ## 📊 GitHub Stats
 
-![Krishala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishala123&show_icons=true&theme=dracula&hide_border=true)
+![Krishala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishala123&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishala123&layout=compact&theme=dracula&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishala123&layout=compact&theme=radical&langs_count=6)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=krishala123&theme=dracula&no-frame=true&row=1&margin-w=10)
+---
 
+## 🔥 GitHub Streak
 
-_Thanks for visiting my profile!_
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krishala123&theme=radical)](https://git.io/streak-stats)
+
+---
+
+## Thanks for visiting my profile!
