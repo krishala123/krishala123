@@ -36,4 +36,4 @@ A showcase of my web development and design skills.
 
 ---
 
-## Thanks for visiting my profile!
+ _Thanks for visiting my profile!_
