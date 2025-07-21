@@ -32,7 +32,7 @@ A showcase of my web development and design skills.
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krishala123&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=krishala123&theme=radical)](https://git.io/streak-stats)
 
 ---
 
