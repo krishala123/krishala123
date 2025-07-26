@@ -4,7 +4,9 @@
 
 Welcome to my GitHub profile! I’m passionate about building beautiful and functional websites, combining creativity with code to deliver great user experiences.
 
+
 ---
+
 
 ## 💻 Skills & Interests
 
@@ -12,7 +14,9 @@ Welcome to my GitHub profile! I’m passionate about building beautiful and func
 - **Web Design:** UI/UX principles, responsive layouts, modern design trends
 - **Continuous Learner:** I'm currently learning web development and web design, and always exploring new technologies and design techniques.
 
+
 ---
+
 
 ## 🛠️ Technologies & Tools
 
@@ -23,6 +27,8 @@ Welcome to my GitHub profile! I’m passionate about building beautiful and func
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 
+---
+
 
 ## 🌟 Featured Project
 
@@ -30,7 +36,9 @@ Welcome to my GitHub profile! I’m passionate about building beautiful and func
 A showcase of my web development and design skills.  
 🔗 [Visit my portfolio](https://krishala123.github.io/Portfolio).
 
+
 ---
+
 
 ## 📊 GitHub Stats
 
@@ -38,14 +46,19 @@ A showcase of my web development and design skills.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishala123&layout=compact&theme=radical&langs_count=6)
 
+
 ---
+
 
 ## 🔥 GitHub Streak
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=krishala123&theme=radical)](https://git.io/streak-stats)
 
+
 ---
 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=krishala123&color=blue&style=flat)
+
 
  _ 😊Thanks for visiting my profile!_
