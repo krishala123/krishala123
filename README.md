@@ -42,9 +42,13 @@ A showcase of my web development and design skills.
 
 ## 📊 GitHub Stats
 
-![Krishala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishala123&show_icons=true&theme=radical&count_private=true)
+![Krishala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishala123&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishala123&layout=compact&theme=radical&langs_count=6)
+
+
+![krishala123's GitHub trophies](https://github-profile-trophy.vercel.app/?username=krishala123&theme=radical)
+
 
 
 ---
@@ -52,7 +56,7 @@ A showcase of my web development and design skills.
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=krishala123&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krishala123&theme=radical)
 
 
 ---
