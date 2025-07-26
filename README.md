@@ -48,4 +48,4 @@ A showcase of my web development and design skills.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=krishala123&color=blue&style=flat)
 
- _Thanks for visiting my profile!_
+ _ 😊Thanks for visiting my profile!_
