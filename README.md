@@ -53,15 +53,11 @@ A showcase of my web development and design skills.
 ---
 
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krishala123&theme=radical&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=krishala123&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&v=2)](https://git.io/streak-stats)
 
 ---
 
-
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishala123&theme=github)
-
-
 
 ---
 
