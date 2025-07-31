@@ -46,22 +46,16 @@ A showcase of my web development and design skills.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishala123&layout=compact&theme=radical&langs_count=6)
 
-
 ![krishala123's GitHub trophies](https://github-profile-trophy.vercel.app/?username=krishala123&theme=radical)
 
-
 ---
-
 
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krishala123&theme=radical&hide_border=true)
 
 ---
 
-
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishala123&theme=github)
-
-
 
 ---
 
