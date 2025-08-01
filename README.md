@@ -50,7 +50,8 @@ A showcase of my web development and design skills.
 
 ---
 
-![](https://nirzak-streak-stats.vercel.app/?user=krishala123&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=krishala123&theme=radical&hide_border=false)
+
 
 
 ---
