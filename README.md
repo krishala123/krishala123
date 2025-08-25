@@ -46,7 +46,8 @@ A showcase of my web development and design skills.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishala123&layout=compact&theme=radical&langs_count=6)
 
-![krishala123's GitHub trophies](https://github-profile-trophy.vercel.app/?username=krishala123&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=krishala123&theme=radical&no-frame=true&margin-w=15&margin-h=15)
+
 
 ---
 
