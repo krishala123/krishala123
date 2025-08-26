@@ -40,17 +40,29 @@ A showcase of my web development and design skills.
 ---
 
 
+### 🌐 Connect with Me:
+<p align="left">
+  <a href="https://linkedin.com/in/Krishala Chaudhary-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:-krishalac9@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
+---
+
+
 ## 📊 GitHub Stats
 
 ![Krishala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishala123&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishala123&layout=compact&theme=radical&langs_count=6)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=krishala123&theme=radical&no-frame=true&margin-w=15&margin-h=15)
-
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=krishala123&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=krishala123&theme=radical&hide_border=false)
 
 ---
 
