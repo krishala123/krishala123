@@ -48,12 +48,9 @@ A showcase of my web development and design skills.
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=krishala123&theme=radical&no-frame=true&margin-w=15&margin-h=15)
 
-
 ---
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=krishala123&theme=radical&hide_border=false)
-
-
 
 ---
 
